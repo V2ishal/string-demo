@@ -1,8 +1,3 @@
-//q1 string reverse not using method
-let str="rahul";
-let reverse="";
-
-for(let i=str.length-1; i>=0; i--){
-    reverse+=str[i];
-}
+let str="vishal";
+let reverse=str.split("").reverse().join("");
 console.log(reverse);
