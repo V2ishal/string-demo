@@ -1,3 +1,8 @@
+//Q1 string question
 let str="vishal";
-let reverse=str.split("").reverse().join("");
+let reverse="";
+
+for(let i=str.length-1; i>=0; i--){
+    reverse+=str[i];
+}
 console.log(reverse);
