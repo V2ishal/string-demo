@@ -1,5 +1,5 @@
 //q2 string is palindrome or not using method
-let student="nayan";
+let student="kiran";
 let reverse=student.split("").reverse().join("");
 if(student===reverse){
     console.log("string is palindrome");
