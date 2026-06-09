@@ -1,11 +1,12 @@
-// string reverse not using method
-let student="rahul";
+//Q2 string is palindrome or not 
+let student="nayan";
+let palindrome="string is palindrome";
 
-let reverse="";
-
-for(let i=student.length-1; i>=0; i++){
-
-    reverse+=student[i];
+for(let i=0; i<student.lenght/2; i++){
+   if(str[i]!==str[str.length-1-i]){
+    palindrome="string is not a palindrome";
+    break;
+   }
 }
-console.log(reverse);
+console.log(palindrome);
 
