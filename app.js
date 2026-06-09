@@ -1,4 +1,5 @@
 //Q2 string is palindrome or not 
+
 let student="nayan";
 let palindrome="string is palindrome";
 
