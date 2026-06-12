@@ -16,3 +16,12 @@ body{
     padding:0px;
     margin:0px;
 }
+button{
+    color:black;
+    background-color: chartreuse;
+    border:1px solid black;
+    border-radius: 5px;
+    height:30px;
+    width:100px;
+    margin:10px;
+}
