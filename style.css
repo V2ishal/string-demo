@@ -5,14 +5,11 @@ div{
     background-color: greenyellow;
     margin:10px;
     padding:10px;
+    display:inline-block;
 }
 html{
     border:5px solid red;
 }
 body{
     border:5px solid green;
-}
-span{
-    border:2px solid red;
-    margin:5px;
 }
