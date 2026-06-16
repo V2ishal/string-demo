@@ -13,3 +13,6 @@ html{
 body{
     border:5px solid green;
 }
+.box1{
+    vertical-align: top;
+}
