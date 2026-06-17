@@ -14,5 +14,10 @@ body{
     border:5px solid green;
 }
 .box1{
-    vertical-align: top;
+    /* vertical-align: top; */
+    /* height:200px; */
+}
+*{
+    vertical-align: baseline;
+  outline: 2px solid red;
 }
