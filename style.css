@@ -1,0 +1,14 @@
+html{
+    border:5px solid red;
+}
+body{
+    border:5px solid blue;
+}
+h1{
+    border:3px solid greenyellow;
+}
+#container{
+    border:3px solid rgb(255, 34, 0);
+    margin:1cqmin;
+    display: flex;
+}
