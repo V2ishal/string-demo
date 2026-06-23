@@ -9,6 +9,14 @@ h1{
 }
 #container{
     border:3px solid rgb(255, 34, 0);
-    margin:1cqmin;
-    display: flex;
+    margin:10px;
+    display:flex;
+    height:300px;
+    flex-direction:row;
+    justify-content:space-evenly ;
+}
+#container div{
+    height:50px;
+    width:50px;                     
+    text-align:center;
 }
