@@ -10,13 +10,13 @@ h1{
 #container{
     border:3px solid rgb(255, 34, 0);
     margin:10px;
-    display:flex;
+    display:flex; 
     height:300px;
     flex-direction:row;
-    justify-content:space-evenly ;
+    justify-content:flex-start;
 }
 #container div{
     height:50px;
-    width:50px;                     
+    width:100px;                     
     text-align:center;
 }
