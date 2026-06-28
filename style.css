@@ -14,7 +14,7 @@ h1{
     height:300px;
     flex-direction:row;
     justify-content:flex-start;
-    flex-wrap: wrap  ;
+    flex-wrap:wrap;
 }
 #container div{
     height:50px;
