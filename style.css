@@ -15,8 +15,8 @@ h1{
     flex-direction:row;
     justify-content:flex-start;
     flex-wrap:wrap;
-    align-items:end;
-    align-content:flex-start;
+    align-items:flex-start;
+    /* align-content:flex-start; */
 }
 #container div{
     height:50px;
