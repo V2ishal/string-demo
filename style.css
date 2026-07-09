@@ -23,6 +23,8 @@ h1{
     width:70px;                
     text-align:center;
 }
-#blue{
-    align-self:flex-start;
+.blue{
+    /* align-self:flex-start; */
+    width:500px;
+    color:white;
 }
