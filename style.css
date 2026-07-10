@@ -20,9 +20,18 @@ h1{
 }
 #container div{
     height:50px;
-    width:70px;                
+    width:100px;                
     text-align:center;
 }
 #blue{
     align-self:flex-start;
+}
+#red{
+    flex-basis:200px;
+}
+#blue{
+    flex-basis:200px;
+}
+#orange{
+    flex-basis:200px;
 }
